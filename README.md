@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ramesh Kumar Giri</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
+<img align = "right" alt = "coding" width = "400"  src = "https://github.com/user-attachments/assets/1c95e46f-2734-45a9-a8a4-19a65ef25da4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshgiri0223&label=Profile%20views&color=0e75b6&style=flat" alt="rameshgiri0223" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshgiri0223" alt="rameshgiri0223" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 👯 I’m looking to collaborate on **MERN stack Projects, Spring Boot Projects**
 
-- 🤝 I’m looking for help with **Spring Boot**
-
 - 📫 How to reach me **giriramesh42366@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ramesh-kumar-giri-0b038a318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ramesh-kumar-giri-0b038a318" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rameshkumargiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameshkumargiri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/giriramesh42366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="giriramesh42366" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramesh_giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramesh_giri" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/giriramesh42366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="giriramesh42366" height="30" width="40" /></a>
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshgiri0223&show_icons=true&locale=en&layout=compact" alt="rameshgiri0223" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshgiri0223&show_icons=true&locale=en" alt="rameshgiri0223" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshgiri0223&" alt="rameshgiri0223" /></p>
