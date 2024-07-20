@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **MERN stack Projects & Spring Boot Projects**
+- 👯 I’m looking to collaborate on **MERN Stack Projects & Spring Boot Projects**
 
 - 📫 How to reach me **giriramesh42366@gmail.com**
 
