@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshgiri0223&label=Profile%20views&color=0e75b6&style=flat" alt="rameshgiri0223" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 👯 I’m looking to collaborate on **MERN Stack Projects & Spring Boot Projects**
+- 👯 I’m looking to collaborate on **Spring Boot Projects**
 
 - 📫 How to reach me **giriramesh42366@gmail.com**
 
